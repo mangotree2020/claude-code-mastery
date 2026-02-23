@@ -4,6 +4,9 @@
       "Bash(git --version:*)",
       "Bash(claude:*)",
       "Bash(node --version:*)"
-    ]
-  }
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "outputStyle": "Explanatory"
 }
